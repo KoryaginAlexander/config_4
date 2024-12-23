@@ -318,6 +318,3 @@ _Выходной файл памяти:_
 ![tests_1.png](imgs/tests1.png)<br>
 ![tests_2.png](imgs/tests2.png)<br>
 _Все они пройдены успешно._
-
-### Url репозитория
-[Домашнее задание размещено на github](https://github.com/Stranik2504/LabConfig/tree/lab4)
